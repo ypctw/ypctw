@@ -1,6 +1,10 @@
 - 🔭  I’m a junior in CSIE at NCKU
 - ⚡  You can contact me on [Linkedin](https://www.linkedin.com/in/yenpochen/) or by email (yenpo.chen.work@gmail.com)
 
+<a href="https://github.com/YEN-PO-CHEN">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YEN-PO-CHEN&show_icons=true&theme=tokyonight")/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YEN-PO-CHEN&layout=compact&theme=tokyonight"/>
+</a>
 
 
 
