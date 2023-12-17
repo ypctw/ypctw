@@ -1,4 +1,4 @@
-- 🔭  I’m a junior in CSIE at NCKU
+- 🔭  I'm M.S. Student @ NCKU SOC ICM
 - ⚡  You can contact me on [Linkedin](https://www.linkedin.com/in/yenpochen/) or by email (yenpo.chen.work@gmail.com)
 
 <a href="https://github.com/ypctw">
