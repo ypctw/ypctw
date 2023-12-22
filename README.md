@@ -3,7 +3,7 @@
 
 <a href="https://github.com/ypctw">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ypctw&show_icons=true&theme=tokyonight")/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypctw&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ypctw&layout=compact&theme=tokyonight&hide=css,html&size_weight=0.4&count=0.6"/>
 </a>
 
 
