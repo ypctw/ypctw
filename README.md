@@ -1,5 +1,5 @@
 - 🔭  I'm M.S. Student @ NCKU SOC ICM
-- ⚡  You can contact me on [Linkedin](https://www.linkedin.com/in/yenpochen/) or by email (yenpo.chen.work@gmail.com)
+- ⚡  You can contact me on [Linkedin](https://www.linkedin.com/in/yenpo) or by email (yenpo1999@gmail.com)
 
 <a href="https://github.com/ypctw">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ypctw&show_icons=true&theme=tokyonight")/>
